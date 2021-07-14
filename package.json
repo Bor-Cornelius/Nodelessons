@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bor",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bor-Cornelius/Nodelessons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bor-Cornelius/Nodelessons/issues"
+  },
+  "homepage": "https://github.com/Bor-Cornelius/Nodelessons#readme",
+  "description": ""
+}
