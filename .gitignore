@@ -1,1 +1,3 @@
-log.txt 
+logs/dev.log 
+bin/app.pin
+log.txt
