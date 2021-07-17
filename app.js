@@ -1,3 +1,2 @@
-var logger = require('./app.js');
-
-console.log(logger);
+const sum = require("./module1");
+console.log(sum(1,1));
