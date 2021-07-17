@@ -1,3 +1,5 @@
-logs/dev.log 
+*.log 
 bin/app.pin
-log.txt
+*.txt
+logs/
+main.log
